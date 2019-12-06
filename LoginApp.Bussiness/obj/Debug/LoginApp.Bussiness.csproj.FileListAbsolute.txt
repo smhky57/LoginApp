@@ -1,0 +1,15 @@
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Bussiness.dll.config
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Bussiness.dll
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Bussiness.pdb
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\EntityFramework.dll
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Data.dll
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Data.pdb
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\LoginApp.Data.dll.config
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\EntityFramework.xml
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\obj\Debug\LoginApp.Bussiness.csprojAssemblyReference.cache
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\obj\Debug\LoginApp.Bussiness.csproj.CoreCompileInputs.cache
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\obj\Debug\LoginApp.Bussiness.csproj.CopyComplete
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\obj\Debug\LoginApp.Bussiness.dll
+D:\VS Projects\LoginApp.Web.UI\LoginApp.Bussiness\obj\Debug\LoginApp.Bussiness.pdb
